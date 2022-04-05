@@ -1,0 +1,2 @@
+# ExtraGon-JS-FTP-Client
+Fully-Featured lightweight FTP FOSS client made with my JSFTP library, JavaScript, HTML and CSS. Uses AceEditor (Optionally Monaco) and PathParseTools (by me, embeded into the JSFTP object.). Only one main file and one small folder. Extra features: Direct login with URL, FTP profiles, fully mobile-friendly &amp; compatible, saving sessions, productivity &amp; automation tools, auto icon&amp;mode, and way more comming.
