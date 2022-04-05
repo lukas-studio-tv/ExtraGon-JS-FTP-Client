@@ -8,4 +8,5 @@ Extra features: Direct login with URL, FTP profiles, fully mobile-friendly &amp;
 
 
 ![image](https://user-images.githubusercontent.com/62482747/161724638-eaa68d4a-6c2f-414d-8c9b-a328055ee528.png)
+![image](https://user-images.githubusercontent.com/62482747/161744072-5cf00b6e-84f0-4f26-bc96-325d421f6ee3.png)
 ![image](https://user-images.githubusercontent.com/62482747/161724703-d58a8913-78db-492b-a8d5-d5a4c9c5491c.png)
